@@ -19,23 +19,27 @@ This is a simple e-commerce system implemented in C++. The system allows custome
 1. Clone the repository:
  
    bash
+   
    git clone https://github.com/yourusername/e-commerce system.git
    
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    
    bash
+   
    cd e-commerce system
    
 🛠 Compilation
 To compile the program, use the following command:
 
 bash
+
 g++ -o ECommerceSystem e_commerce.cpp
 
 🚀 Usage
 Run the compiled program:
 
 bash
+
 ./ECommerceSystem
 
 💬 Example Output
