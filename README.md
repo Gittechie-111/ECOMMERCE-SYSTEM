@@ -17,11 +17,11 @@ This is a simple e-commerce system implemented in C++. The system allows custome
 
 📥 *Installation*  
 1. Clone the repository:
-2. 
+ 
    bash
    git clone https://github.com/yourusername/e-commerce system.git
    
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    
    bash
    cd e-commerce system
