@@ -30,15 +30,24 @@ g++ -o ECommerceSystem e_commerce.cpp
 Run the compiled program:
 bash
 ./ECommerceSystem
+
 💬 Example Output
 When you run the program, it will create a customer named "John Doe," add products to an order, display the order details, process a credit card payment, and save the order information to a file named order.txt.
+
 📂 Code Structure
+
 The code consists of a single file e_commerce.cpp that contains all class definitions and implementations:
+
 🏷 Product: Represents a product with name, price, and quantity.
+
 🧑‍🤝‍🧑 Customer: Represents a customer with name and email.
+
 📃 Order: Represents an order that includes products and customer details.
+
 🏦 Payment: An abstract class for payment methods.
+
 💳 CreditCardPayment: A derived class that implements credit card payment processing.
+
 🤝 Contributing
    Developed by Group N(Group 8) Year 2.1 students as an Assignment for coursework at Jkuat
 
